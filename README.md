@@ -5,7 +5,6 @@ A simple web application that allows users to create, customize, and save digita
 ###Features:
 
 Interactive Drawing Canvas: Draw your digital signature directly on the canvas.  
-
 Color Customization:
 
 Choose the text (pen) color with a color picker.
