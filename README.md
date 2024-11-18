@@ -2,6 +2,7 @@
 
 A simple web application that allows users to create, customize, and save digital signatures. The tool provides an interactive canvas for drawing and allows adjustments to text color, background color, and pen size for a personalized experience.
 
+
 ###Features:
 
 Interactive Drawing Canvas: Draw your digital signature directly on the canvas.
