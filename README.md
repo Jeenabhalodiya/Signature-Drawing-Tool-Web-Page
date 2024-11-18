@@ -16,8 +16,8 @@ Responsive Design: Built with Bootstrap for an optimal experience on all devices
 
 ###How to Use:
 
-Select a text color and background color using the color pickers.
-Choose the pen size from the dropdown menu.
+Select a text color and background color using the color pickers.     
+Choose the pen size from the dropdown menu.   
 Draw your signature on the canvas.
 Use the Clear button to reset the canvas if needed.
 Save your signature by clicking Save & Download.
